@@ -11,10 +11,11 @@ html,body,ul,li,img,a,p,div,form,input,dl,dd,dt{
 }
 html{
     padding:0 6px;
+    min-width: 320px;
+    max-width: 720px;
 }
 body{
     font-family: "微软雅黑",sans-serif;
-    font-size: 12px;
     background-color: #f0f0f0;
 
 }
